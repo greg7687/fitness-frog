@@ -2,7 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\Treehouse.FitnessFrog"
+    "\\src\\packages\\bootstrap.3.0.0",
+    "\\src\\packages\\bootstrap.3.0.0\\Content",
+    "\\src\\packages\\bootstrap.3.0.0\\Content\\Content",
+    "\\src\\Treehouse.FitnessFrog\\Views",
+    "\\src\\Treehouse.FitnessFrog\\Views\\Entries"
   ],
+  "SelectedNode": "\\src\\Treehouse.FitnessFrog.sln",
   "PreviewInSolutionExplorer": false
 }
